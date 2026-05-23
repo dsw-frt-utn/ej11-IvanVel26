@@ -17,7 +17,7 @@ public class CasoList
         alumnos.Add(alumno);
     }
 
-    public List<Alumno> getAlumnos()
+    public List<Alumno> GetAlumnos()
     {
         return alumnos;
     }

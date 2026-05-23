@@ -37,7 +37,7 @@ public class CasoDictionary
         }
     }
 
-    public Dictionary<int, Alumno> getDiccionario()
+    public Dictionary<int, Alumno> GetDiccionario()
     {
         return alumnos;
     }
